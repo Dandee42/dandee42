@@ -1,6 +1,4 @@
-## Hi there, I'm Daniel 👋
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Simple%2C+but+not+easy.)](https://github.com/piyushsuthar/github-readme-quotes)
+![Hey, Im Daniel](https://github.com/Dandee42/dandee42/blob/main/banner_github.png)
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26)
@@ -33,3 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717)
 ![Static Badge](https://img.shields.io/badge/pycharm-grey?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=%23000000)
 
+<!--
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Simple%2C+but+not+easy.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Daniel+%F0%9F%91%8B)](https://git.io/typing-svg)
+-->
