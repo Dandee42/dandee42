@@ -1,5 +1,5 @@
 ![Hey, Im Daniel](https://github.com/Dandee42/dandee42/blob/main/banner_github.png)
-
+# Web app developer
 ### Languages
 ![Static Badge](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6) 
