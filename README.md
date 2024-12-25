@@ -8,13 +8,10 @@
 ![Static Badge](https://img.shields.io/badge/sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57)
 
 ### Frameworks
-- **HTML5**: ![Static Badge](https://img.shields.io/badge/markdown-grey?style=for-the-badge&logo=markdown&logoColor=white&labelColor=%23000000)
-
-- **CSS3**: ![Static Badge](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3)
-
-- **Python**: ![Static Badge](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20) ![Static Badge](https://img.shields.io/badge/jinja-grey?style=for-the-badge&logo=jinja&logoColor=white&labelColor=%23B41717) ![Static Badge](https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243) 
-
-- **Javascript**: ![Static Badge](https://img.shields.io/badge/htmx-grey?style=for-the-badge&logo=htmx&logoColor=white&labelColor=%233366CC)
+![Static Badge](https://img.shields.io/badge/markdown-grey?style=for-the-badge&logo=markdown&logoColor=white&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20) ![Static Badge](https://img.shields.io/badge/jinja-grey?style=for-the-badge&logo=jinja&logoColor=white&labelColor=%23B41717) ![Static Badge](https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243) 
+![Static Badge](https://img.shields.io/badge/htmx-grey?style=for-the-badge&logo=htmx&logoColor=white&labelColor=%233366CC)
 
 ### Test tools
 ![Static Badge](https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest&logoColor=white&labelColor=%230A9EDC)
