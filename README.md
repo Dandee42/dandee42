@@ -1,5 +1,7 @@
 ## Hi there, I'm Daniel 👋
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Simple%2C+but+not+easy.)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Languages
 ![Static Badge](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6) 
